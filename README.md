@@ -5,7 +5,9 @@ file for a given string in each line. Every line that contains the
 query string is printed to stdout. 
 
 This code is an implementation of chapter 12 of the
-Rust Programming Language book.
+Rust Programming Language book:
+
+https://doc.rust-lang.org/book/ch12-00-an-io-project.html
 
 # Concepts
 * Organizing code (Chapter 7)
